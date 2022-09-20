@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.exe
+C:\Users\user1\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.deps.json
+C:\Users\user1\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.json
+C:\Users\user1\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.dll
+C:\Users\user1\source\repos\Messages\Messages\bin\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\user1\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.AssemblyInfo.cs
+C:\Users\user1\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.dll
+C:\Users\user1\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.pdb
+C:\Users\user1\source\repos\Messages\Messages\obj\Debug\netcoreapp3.1\Messages.genruntimeconfig.cache

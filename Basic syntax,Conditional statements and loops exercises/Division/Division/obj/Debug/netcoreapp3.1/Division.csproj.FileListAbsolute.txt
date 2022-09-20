@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Division\Division\bin\Debug\netcoreapp3.1\Division.exe
+C:\Users\user1\source\repos\Division\Division\bin\Debug\netcoreapp3.1\Division.deps.json
+C:\Users\user1\source\repos\Division\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.json
+C:\Users\user1\source\repos\Division\Division\bin\Debug\netcoreapp3.1\Division.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Division\Division\bin\Debug\netcoreapp3.1\Division.dll
+C:\Users\user1\source\repos\Division\Division\bin\Debug\netcoreapp3.1\Division.pdb
+C:\Users\user1\source\repos\Division\Division\obj\Debug\netcoreapp3.1\Division.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Division\Division\obj\Debug\netcoreapp3.1\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Division\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Division\Division\obj\Debug\netcoreapp3.1\Division.AssemblyInfo.cs
+C:\Users\user1\source\repos\Division\Division\obj\Debug\netcoreapp3.1\Division.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Division\Division\obj\Debug\netcoreapp3.1\Division.dll
+C:\Users\user1\source\repos\Division\Division\obj\Debug\netcoreapp3.1\Division.pdb
+C:\Users\user1\source\repos\Division\Division\obj\Debug\netcoreapp3.1\Division.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\bin\Debug\netcoreapp3.1\Divisible by 3.exe
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\bin\Debug\netcoreapp3.1\Divisible by 3.deps.json
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\bin\Debug\netcoreapp3.1\Divisible by 3.runtimeconfig.json
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\bin\Debug\netcoreapp3.1\Divisible by 3.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\bin\Debug\netcoreapp3.1\Divisible by 3.dll
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\bin\Debug\netcoreapp3.1\Divisible by 3.pdb
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\obj\Debug\netcoreapp3.1\Divisible by 3.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\obj\Debug\netcoreapp3.1\Divisible by 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\obj\Debug\netcoreapp3.1\Divisible by 3.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\obj\Debug\netcoreapp3.1\Divisible by 3.AssemblyInfo.cs
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\obj\Debug\netcoreapp3.1\Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\obj\Debug\netcoreapp3.1\Divisible by 3.dll
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\obj\Debug\netcoreapp3.1\Divisible by 3.pdb
+C:\Users\user1\source\repos\Divisible by 3\Divisible by 3\obj\Debug\netcoreapp3.1\Divisible by 3.genruntimeconfig.cache

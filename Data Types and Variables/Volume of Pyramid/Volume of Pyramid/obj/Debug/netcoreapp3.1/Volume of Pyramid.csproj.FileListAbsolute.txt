@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\bin\Debug\netcoreapp3.1\Volume of Pyramid.exe
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\bin\Debug\netcoreapp3.1\Volume of Pyramid.deps.json
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\bin\Debug\netcoreapp3.1\Volume of Pyramid.runtimeconfig.json
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\bin\Debug\netcoreapp3.1\Volume of Pyramid.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\bin\Debug\netcoreapp3.1\Volume of Pyramid.dll
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\bin\Debug\netcoreapp3.1\Volume of Pyramid.pdb
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\obj\Debug\netcoreapp3.1\Volume of Pyramid.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\obj\Debug\netcoreapp3.1\Volume of Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\obj\Debug\netcoreapp3.1\Volume of Pyramid.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\obj\Debug\netcoreapp3.1\Volume of Pyramid.AssemblyInfo.cs
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\obj\Debug\netcoreapp3.1\Volume of Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\obj\Debug\netcoreapp3.1\Volume of Pyramid.dll
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\obj\Debug\netcoreapp3.1\Volume of Pyramid.pdb
+C:\Users\user1\source\repos\Volume of Pyramid\Volume of Pyramid\obj\Debug\netcoreapp3.1\Volume of Pyramid.genruntimeconfig.cache

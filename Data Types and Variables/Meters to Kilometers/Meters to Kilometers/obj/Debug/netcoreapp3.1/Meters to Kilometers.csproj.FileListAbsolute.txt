@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\bin\Debug\netcoreapp3.1\Meters to Kilometers.exe
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\bin\Debug\netcoreapp3.1\Meters to Kilometers.deps.json
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\bin\Debug\netcoreapp3.1\Meters to Kilometers.runtimeconfig.json
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\bin\Debug\netcoreapp3.1\Meters to Kilometers.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\bin\Debug\netcoreapp3.1\Meters to Kilometers.dll
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\bin\Debug\netcoreapp3.1\Meters to Kilometers.pdb
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\obj\Debug\netcoreapp3.1\Meters to Kilometers.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\obj\Debug\netcoreapp3.1\Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\obj\Debug\netcoreapp3.1\Meters to Kilometers.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\obj\Debug\netcoreapp3.1\Meters to Kilometers.AssemblyInfo.cs
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\obj\Debug\netcoreapp3.1\Meters to Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\obj\Debug\netcoreapp3.1\Meters to Kilometers.dll
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\obj\Debug\netcoreapp3.1\Meters to Kilometers.pdb
+C:\Users\user1\source\repos\Meters to Kilometers\Meters to Kilometers\obj\Debug\netcoreapp3.1\Meters to Kilometers.genruntimeconfig.cache

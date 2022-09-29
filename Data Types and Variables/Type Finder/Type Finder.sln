@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Type Finder", "Type Finder\Type Finder.csproj", "{7860148F-B8F5-47EE-8F72-41FD9491D838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7860148F-B8F5-47EE-8F72-41FD9491D838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7860148F-B8F5-47EE-8F72-41FD9491D838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7860148F-B8F5-47EE-8F72-41FD9491D838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7860148F-B8F5-47EE-8F72-41FD9491D838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0251AD5E-BF88-46FA-82CD-EE2893A7BD30}
+	EndGlobalSection
+EndGlobal

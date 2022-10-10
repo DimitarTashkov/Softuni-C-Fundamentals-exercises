@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\nz\nz\bin\Debug\netcoreapp3.1\nz.exe
+C:\Users\user1\source\repos\nz\nz\bin\Debug\netcoreapp3.1\nz.deps.json
+C:\Users\user1\source\repos\nz\nz\bin\Debug\netcoreapp3.1\nz.runtimeconfig.json
+C:\Users\user1\source\repos\nz\nz\bin\Debug\netcoreapp3.1\nz.runtimeconfig.dev.json
+C:\Users\user1\source\repos\nz\nz\bin\Debug\netcoreapp3.1\nz.dll
+C:\Users\user1\source\repos\nz\nz\bin\Debug\netcoreapp3.1\nz.pdb
+C:\Users\user1\source\repos\nz\nz\obj\Debug\netcoreapp3.1\nz.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\nz\nz\obj\Debug\netcoreapp3.1\nz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\nz\nz\obj\Debug\netcoreapp3.1\nz.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\nz\nz\obj\Debug\netcoreapp3.1\nz.AssemblyInfo.cs
+C:\Users\user1\source\repos\nz\nz\obj\Debug\netcoreapp3.1\nz.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\nz\nz\obj\Debug\netcoreapp3.1\nz.dll
+C:\Users\user1\source\repos\nz\nz\obj\Debug\netcoreapp3.1\nz.pdb
+C:\Users\user1\source\repos\nz\nz\obj\Debug\netcoreapp3.1\nz.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "slivane na masiv/1.0.0": {
+        "runtime": {
+          "slivane na masiv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "slivane na masiv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PB d6 ex2/1.0.0": {
+        "runtime": {
+          "PB d6 ex2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PB d6 ex2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

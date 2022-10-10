@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\bin\Debug\net5.0\nested cond 2.exe
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\bin\Debug\net5.0\nested cond 2.deps.json
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\bin\Debug\net5.0\nested cond 2.runtimeconfig.json
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\bin\Debug\net5.0\nested cond 2.runtimeconfig.dev.json
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\bin\Debug\net5.0\nested cond 2.dll
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\bin\Debug\net5.0\ref\nested cond 2.dll
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\bin\Debug\net5.0\nested cond 2.pdb
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\obj\Debug\net5.0\nested cond 2.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\obj\Debug\net5.0\nested cond 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\obj\Debug\net5.0\nested cond 2.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\obj\Debug\net5.0\nested cond 2.AssemblyInfo.cs
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\obj\Debug\net5.0\nested cond 2.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\obj\Debug\net5.0\nested cond 2.dll
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\obj\Debug\net5.0\ref\nested cond 2.dll
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\obj\Debug\net5.0\nested cond 2.pdb
+C:\Users\user1\source\repos\nested cond 2\nested cond 2\obj\Debug\net5.0\nested cond 2.genruntimeconfig.cache

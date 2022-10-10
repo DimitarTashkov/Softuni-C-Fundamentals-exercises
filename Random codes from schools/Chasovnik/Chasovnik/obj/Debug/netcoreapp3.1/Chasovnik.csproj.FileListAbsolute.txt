@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\bin\Debug\netcoreapp3.1\Chasovnik.exe
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\bin\Debug\netcoreapp3.1\Chasovnik.deps.json
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\bin\Debug\netcoreapp3.1\Chasovnik.runtimeconfig.json
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\bin\Debug\netcoreapp3.1\Chasovnik.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\bin\Debug\netcoreapp3.1\Chasovnik.dll
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\bin\Debug\netcoreapp3.1\Chasovnik.pdb
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\obj\Debug\netcoreapp3.1\Chasovnik.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\obj\Debug\netcoreapp3.1\Chasovnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\obj\Debug\netcoreapp3.1\Chasovnik.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\obj\Debug\netcoreapp3.1\Chasovnik.AssemblyInfo.cs
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\obj\Debug\netcoreapp3.1\Chasovnik.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\obj\Debug\netcoreapp3.1\Chasovnik.dll
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\obj\Debug\netcoreapp3.1\Chasovnik.pdb
+C:\Users\user1\source\repos\Chasovnik\Chasovnik\obj\Debug\netcoreapp3.1\Chasovnik.genruntimeconfig.cache

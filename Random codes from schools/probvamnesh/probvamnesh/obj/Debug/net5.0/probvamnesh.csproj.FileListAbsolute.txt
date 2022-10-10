@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\bin\Debug\net5.0\probvamnesh.exe
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\bin\Debug\net5.0\probvamnesh.deps.json
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\bin\Debug\net5.0\probvamnesh.runtimeconfig.json
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\bin\Debug\net5.0\probvamnesh.runtimeconfig.dev.json
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\bin\Debug\net5.0\probvamnesh.dll
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\bin\Debug\net5.0\ref\probvamnesh.dll
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\bin\Debug\net5.0\probvamnesh.pdb
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\obj\Debug\net5.0\probvamnesh.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\obj\Debug\net5.0\probvamnesh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\obj\Debug\net5.0\probvamnesh.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\obj\Debug\net5.0\probvamnesh.AssemblyInfo.cs
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\obj\Debug\net5.0\probvamnesh.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\obj\Debug\net5.0\probvamnesh.dll
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\obj\Debug\net5.0\ref\probvamnesh.dll
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\obj\Debug\net5.0\probvamnesh.pdb
+C:\Users\user1\source\repos\probvamnesh\probvamnesh\obj\Debug\net5.0\probvamnesh.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\color\color\bin\Debug\color.exe.config
+C:\Users\user1\source\repos\color\color\bin\Debug\color.exe
+C:\Users\user1\source\repos\color\color\bin\Debug\color.pdb
+C:\Users\user1\source\repos\color\color\obj\Debug\color.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\color\color\obj\Debug\color.Form1.resources
+C:\Users\user1\source\repos\color\color\obj\Debug\color.Properties.Resources.resources
+C:\Users\user1\source\repos\color\color\obj\Debug\color.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\color\color\obj\Debug\color.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\color\color\obj\Debug\color.exe
+C:\Users\user1\source\repos\color\color\obj\Debug\color.pdb

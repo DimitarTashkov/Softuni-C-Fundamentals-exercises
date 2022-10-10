@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\zada\zada\obj\Debug\zada.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\zada\zada\obj\Debug\zada.Form1.resources
+C:\Users\user1\source\repos\zada\zada\obj\Debug\zada.Properties.Resources.resources
+C:\Users\user1\source\repos\zada\zada\obj\Debug\zada.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\zada\zada\obj\Debug\zada.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\zada\zada\bin\Debug\zada.exe.config
+C:\Users\user1\source\repos\zada\zada\bin\Debug\zada.exe
+C:\Users\user1\source\repos\zada\zada\bin\Debug\zada.pdb
+C:\Users\user1\source\repos\zada\zada\obj\Debug\zada.exe
+C:\Users\user1\source\repos\zada\zada\obj\Debug\zada.pdb

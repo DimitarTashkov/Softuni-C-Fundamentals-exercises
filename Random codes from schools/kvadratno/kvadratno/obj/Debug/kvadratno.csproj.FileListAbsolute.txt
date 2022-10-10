@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\kvadratno\kvadratno\bin\Debug\kvadratno.exe.config
+C:\Users\user1\source\repos\kvadratno\kvadratno\bin\Debug\kvadratno.exe
+C:\Users\user1\source\repos\kvadratno\kvadratno\bin\Debug\kvadratno.pdb
+C:\Users\user1\source\repos\kvadratno\kvadratno\obj\Debug\kvadratno.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\kvadratno\kvadratno\obj\Debug\kvadratno.Properties.Resources.resources
+C:\Users\user1\source\repos\kvadratno\kvadratno\obj\Debug\kvadratno.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\kvadratno\kvadratno\obj\Debug\kvadratno.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\kvadratno\kvadratno\obj\Debug\kvadratno.exe
+C:\Users\user1\source\repos\kvadratno\kvadratno\obj\Debug\kvadratno.pdb
+C:\Users\user1\source\repos\kvadratno\kvadratno\obj\Debug\kvadratno.Уравнение.resources

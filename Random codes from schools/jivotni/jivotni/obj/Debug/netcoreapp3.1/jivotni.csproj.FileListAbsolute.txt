@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\jivotni\jivotni\bin\Debug\netcoreapp3.1\jivotni.exe
+C:\Users\user1\source\repos\jivotni\jivotni\bin\Debug\netcoreapp3.1\jivotni.deps.json
+C:\Users\user1\source\repos\jivotni\jivotni\bin\Debug\netcoreapp3.1\jivotni.runtimeconfig.json
+C:\Users\user1\source\repos\jivotni\jivotni\bin\Debug\netcoreapp3.1\jivotni.runtimeconfig.dev.json
+C:\Users\user1\source\repos\jivotni\jivotni\bin\Debug\netcoreapp3.1\jivotni.dll
+C:\Users\user1\source\repos\jivotni\jivotni\bin\Debug\netcoreapp3.1\jivotni.pdb
+C:\Users\user1\source\repos\jivotni\jivotni\obj\Debug\netcoreapp3.1\jivotni.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\jivotni\jivotni\obj\Debug\netcoreapp3.1\jivotni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\jivotni\jivotni\obj\Debug\netcoreapp3.1\jivotni.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\jivotni\jivotni\obj\Debug\netcoreapp3.1\jivotni.AssemblyInfo.cs
+C:\Users\user1\source\repos\jivotni\jivotni\obj\Debug\netcoreapp3.1\jivotni.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\jivotni\jivotni\obj\Debug\netcoreapp3.1\jivotni.dll
+C:\Users\user1\source\repos\jivotni\jivotni\obj\Debug\netcoreapp3.1\jivotni.pdb
+C:\Users\user1\source\repos\jivotni\jivotni\obj\Debug\netcoreapp3.1\jivotni.genruntimeconfig.cache

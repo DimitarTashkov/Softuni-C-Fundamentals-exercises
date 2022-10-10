@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\bin\Debug\net5.0\Manipulating lists ex1.exe
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\bin\Debug\net5.0\Manipulating lists ex1.deps.json
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\bin\Debug\net5.0\Manipulating lists ex1.runtimeconfig.json
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\bin\Debug\net5.0\Manipulating lists ex1.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\bin\Debug\net5.0\Manipulating lists ex1.dll
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\bin\Debug\net5.0\ref\Manipulating lists ex1.dll
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\bin\Debug\net5.0\Manipulating lists ex1.pdb
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\obj\Debug\net5.0\Manipulating lists ex1.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\obj\Debug\net5.0\Manipulating lists ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\obj\Debug\net5.0\Manipulating lists ex1.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\obj\Debug\net5.0\Manipulating lists ex1.AssemblyInfo.cs
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\obj\Debug\net5.0\Manipulating lists ex1.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\obj\Debug\net5.0\Manipulating lists ex1.dll
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\obj\Debug\net5.0\ref\Manipulating lists ex1.dll
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\obj\Debug\net5.0\Manipulating lists ex1.pdb
+C:\Users\user1\source\repos\Manipulating lists ex1\Manipulating lists ex1\obj\Debug\net5.0\Manipulating lists ex1.genruntimeconfig.cache

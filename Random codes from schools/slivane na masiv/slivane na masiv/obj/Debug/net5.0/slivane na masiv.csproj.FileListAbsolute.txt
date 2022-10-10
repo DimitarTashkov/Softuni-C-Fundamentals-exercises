@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\bin\Debug\net5.0\slivane na masiv.exe
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\bin\Debug\net5.0\slivane na masiv.deps.json
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\bin\Debug\net5.0\slivane na masiv.runtimeconfig.json
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\bin\Debug\net5.0\slivane na masiv.runtimeconfig.dev.json
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\bin\Debug\net5.0\slivane na masiv.dll
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\bin\Debug\net5.0\ref\slivane na masiv.dll
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\bin\Debug\net5.0\slivane na masiv.pdb
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\obj\Debug\net5.0\slivane na masiv.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\obj\Debug\net5.0\slivane na masiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\obj\Debug\net5.0\slivane na masiv.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\obj\Debug\net5.0\slivane na masiv.AssemblyInfo.cs
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\obj\Debug\net5.0\slivane na masiv.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\obj\Debug\net5.0\slivane na masiv.dll
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\obj\Debug\net5.0\ref\slivane na masiv.dll
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\obj\Debug\net5.0\slivane na masiv.pdb
+C:\Users\user1\source\repos\slivane na masiv\slivane na masiv\obj\Debug\net5.0\slivane na masiv.genruntimeconfig.cache

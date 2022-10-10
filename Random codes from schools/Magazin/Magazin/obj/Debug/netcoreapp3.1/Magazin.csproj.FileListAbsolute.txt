@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Magazin\Magazin\bin\Debug\netcoreapp3.1\Magazin.exe
+C:\Users\user1\source\repos\Magazin\Magazin\bin\Debug\netcoreapp3.1\Magazin.deps.json
+C:\Users\user1\source\repos\Magazin\Magazin\bin\Debug\netcoreapp3.1\Magazin.runtimeconfig.json
+C:\Users\user1\source\repos\Magazin\Magazin\bin\Debug\netcoreapp3.1\Magazin.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Magazin\Magazin\bin\Debug\netcoreapp3.1\Magazin.dll
+C:\Users\user1\source\repos\Magazin\Magazin\bin\Debug\netcoreapp3.1\Magazin.pdb
+C:\Users\user1\source\repos\Magazin\Magazin\obj\Debug\netcoreapp3.1\Magazin.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Magazin\Magazin\obj\Debug\netcoreapp3.1\Magazin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Magazin\Magazin\obj\Debug\netcoreapp3.1\Magazin.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Magazin\Magazin\obj\Debug\netcoreapp3.1\Magazin.AssemblyInfo.cs
+C:\Users\user1\source\repos\Magazin\Magazin\obj\Debug\netcoreapp3.1\Magazin.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Magazin\Magazin\obj\Debug\netcoreapp3.1\Magazin.dll
+C:\Users\user1\source\repos\Magazin\Magazin\obj\Debug\netcoreapp3.1\Magazin.pdb
+C:\Users\user1\source\repos\Magazin\Magazin\obj\Debug\netcoreapp3.1\Magazin.genruntimeconfig.cache

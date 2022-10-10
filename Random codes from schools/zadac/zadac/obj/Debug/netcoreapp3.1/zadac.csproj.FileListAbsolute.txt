@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\zadac\zadac\bin\Debug\netcoreapp3.1\zadac.exe
+C:\Users\user1\source\repos\zadac\zadac\bin\Debug\netcoreapp3.1\zadac.deps.json
+C:\Users\user1\source\repos\zadac\zadac\bin\Debug\netcoreapp3.1\zadac.runtimeconfig.json
+C:\Users\user1\source\repos\zadac\zadac\bin\Debug\netcoreapp3.1\zadac.runtimeconfig.dev.json
+C:\Users\user1\source\repos\zadac\zadac\bin\Debug\netcoreapp3.1\zadac.dll
+C:\Users\user1\source\repos\zadac\zadac\bin\Debug\netcoreapp3.1\zadac.pdb
+C:\Users\user1\source\repos\zadac\zadac\obj\Debug\netcoreapp3.1\zadac.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\zadac\zadac\obj\Debug\netcoreapp3.1\zadac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\zadac\zadac\obj\Debug\netcoreapp3.1\zadac.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\zadac\zadac\obj\Debug\netcoreapp3.1\zadac.AssemblyInfo.cs
+C:\Users\user1\source\repos\zadac\zadac\obj\Debug\netcoreapp3.1\zadac.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\zadac\zadac\obj\Debug\netcoreapp3.1\zadac.dll
+C:\Users\user1\source\repos\zadac\zadac\obj\Debug\netcoreapp3.1\zadac.pdb
+C:\Users\user1\source\repos\zadac\zadac\obj\Debug\netcoreapp3.1\zadac.genruntimeconfig.cache

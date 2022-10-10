@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\teat\teat\bin\Debug\netcoreapp3.1\teat.exe
+C:\Users\user1\source\repos\teat\teat\bin\Debug\netcoreapp3.1\teat.deps.json
+C:\Users\user1\source\repos\teat\teat\bin\Debug\netcoreapp3.1\teat.runtimeconfig.json
+C:\Users\user1\source\repos\teat\teat\bin\Debug\netcoreapp3.1\teat.runtimeconfig.dev.json
+C:\Users\user1\source\repos\teat\teat\bin\Debug\netcoreapp3.1\teat.dll
+C:\Users\user1\source\repos\teat\teat\bin\Debug\netcoreapp3.1\teat.pdb
+C:\Users\user1\source\repos\teat\teat\obj\Debug\netcoreapp3.1\teat.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\teat\teat\obj\Debug\netcoreapp3.1\teat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\teat\teat\obj\Debug\netcoreapp3.1\teat.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\teat\teat\obj\Debug\netcoreapp3.1\teat.AssemblyInfo.cs
+C:\Users\user1\source\repos\teat\teat\obj\Debug\netcoreapp3.1\teat.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\teat\teat\obj\Debug\netcoreapp3.1\teat.dll
+C:\Users\user1\source\repos\teat\teat\obj\Debug\netcoreapp3.1\teat.pdb
+C:\Users\user1\source\repos\teat\teat\obj\Debug\netcoreapp3.1\teat.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\zd\zd\bin\Debug\netcoreapp3.1\zd.exe
+C:\Users\user1\source\repos\zd\zd\bin\Debug\netcoreapp3.1\zd.deps.json
+C:\Users\user1\source\repos\zd\zd\bin\Debug\netcoreapp3.1\zd.runtimeconfig.json
+C:\Users\user1\source\repos\zd\zd\bin\Debug\netcoreapp3.1\zd.runtimeconfig.dev.json
+C:\Users\user1\source\repos\zd\zd\bin\Debug\netcoreapp3.1\zd.dll
+C:\Users\user1\source\repos\zd\zd\bin\Debug\netcoreapp3.1\zd.pdb
+C:\Users\user1\source\repos\zd\zd\obj\Debug\netcoreapp3.1\zd.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\zd\zd\obj\Debug\netcoreapp3.1\zd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\zd\zd\obj\Debug\netcoreapp3.1\zd.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\zd\zd\obj\Debug\netcoreapp3.1\zd.AssemblyInfo.cs
+C:\Users\user1\source\repos\zd\zd\obj\Debug\netcoreapp3.1\zd.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\zd\zd\obj\Debug\netcoreapp3.1\zd.dll
+C:\Users\user1\source\repos\zd\zd\obj\Debug\netcoreapp3.1\zd.pdb
+C:\Users\user1\source\repos\zd\zd\obj\Debug\netcoreapp3.1\zd.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "softuni nested condit/1.0.0": {
+        "runtime": {
+          "softuni nested condit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "softuni nested condit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\passgen\passgen\bin\Debug\net5.0\passgen.exe
+C:\Users\user1\source\repos\passgen\passgen\bin\Debug\net5.0\passgen.deps.json
+C:\Users\user1\source\repos\passgen\passgen\bin\Debug\net5.0\passgen.runtimeconfig.json
+C:\Users\user1\source\repos\passgen\passgen\bin\Debug\net5.0\passgen.runtimeconfig.dev.json
+C:\Users\user1\source\repos\passgen\passgen\bin\Debug\net5.0\passgen.dll
+C:\Users\user1\source\repos\passgen\passgen\bin\Debug\net5.0\ref\passgen.dll
+C:\Users\user1\source\repos\passgen\passgen\bin\Debug\net5.0\passgen.pdb
+C:\Users\user1\source\repos\passgen\passgen\obj\Debug\net5.0\passgen.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\passgen\passgen\obj\Debug\net5.0\passgen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\passgen\passgen\obj\Debug\net5.0\passgen.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\passgen\passgen\obj\Debug\net5.0\passgen.AssemblyInfo.cs
+C:\Users\user1\source\repos\passgen\passgen\obj\Debug\net5.0\passgen.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\passgen\passgen\obj\Debug\net5.0\passgen.dll
+C:\Users\user1\source\repos\passgen\passgen\obj\Debug\net5.0\ref\passgen.dll
+C:\Users\user1\source\repos\passgen\passgen\obj\Debug\net5.0\passgen.pdb
+C:\Users\user1\source\repos\passgen\passgen\obj\Debug\net5.0\passgen.genruntimeconfig.cache

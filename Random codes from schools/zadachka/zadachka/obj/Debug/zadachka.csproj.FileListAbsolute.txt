@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\zadachka\zadachka\bin\Debug\zadachka.exe.config
+C:\Users\user1\source\repos\zadachka\zadachka\bin\Debug\zadachka.exe
+C:\Users\user1\source\repos\zadachka\zadachka\bin\Debug\zadachka.pdb
+C:\Users\user1\source\repos\zadachka\zadachka\obj\Debug\zadachka.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\zadachka\zadachka\obj\Debug\zadachka.Form1.resources
+C:\Users\user1\source\repos\zadachka\zadachka\obj\Debug\zadachka.Properties.Resources.resources
+C:\Users\user1\source\repos\zadachka\zadachka\obj\Debug\zadachka.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\zadachka\zadachka\obj\Debug\zadachka.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\zadachka\zadachka\obj\Debug\zadachka.exe
+C:\Users\user1\source\repos\zadachka\zadachka\obj\Debug\zadachka.pdb

@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\bin\Debug\net5.0\PB d10 ex3.1.exe
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\bin\Debug\net5.0\PB d10 ex3.1.deps.json
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\bin\Debug\net5.0\PB d10 ex3.1.runtimeconfig.json
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\bin\Debug\net5.0\PB d10 ex3.1.runtimeconfig.dev.json
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\bin\Debug\net5.0\PB d10 ex3.1.dll
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\bin\Debug\net5.0\ref\PB d10 ex3.1.dll
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\bin\Debug\net5.0\PB d10 ex3.1.pdb
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\obj\Debug\net5.0\PB d10 ex3.1.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\obj\Debug\net5.0\PB d10 ex3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\obj\Debug\net5.0\PB d10 ex3.1.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\obj\Debug\net5.0\PB d10 ex3.1.AssemblyInfo.cs
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\obj\Debug\net5.0\PB d10 ex3.1.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\obj\Debug\net5.0\PB d10 ex3.1.dll
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\obj\Debug\net5.0\ref\PB d10 ex3.1.dll
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\obj\Debug\net5.0\PB d10 ex3.1.pdb
+C:\Users\user1\source\repos\PB d10 ex3.1\PB d10 ex3.1\obj\Debug\net5.0\PB d10 ex3.1.genruntimeconfig.cache

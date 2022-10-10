@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\Important\Important\bin\Debug\Important.exe.config
+C:\Users\user1\source\repos\Important\Important\bin\Debug\Important.exe
+C:\Users\user1\source\repos\Important\Important\bin\Debug\Important.pdb
+C:\Users\user1\source\repos\Important\Important\obj\Debug\Important.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Important\Important\obj\Debug\Important.Form1.resources
+C:\Users\user1\source\repos\Important\Important\obj\Debug\Important.Properties.Resources.resources
+C:\Users\user1\source\repos\Important\Important\obj\Debug\Important.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\Important\Important\obj\Debug\Important.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Important\Important\obj\Debug\Important.exe
+C:\Users\user1\source\repos\Important\Important\obj\Debug\Important.pdb

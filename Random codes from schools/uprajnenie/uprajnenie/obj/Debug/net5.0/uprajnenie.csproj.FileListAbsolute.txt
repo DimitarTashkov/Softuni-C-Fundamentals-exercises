@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\bin\Debug\net5.0\uprajnenie.exe
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\bin\Debug\net5.0\uprajnenie.deps.json
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\bin\Debug\net5.0\uprajnenie.runtimeconfig.json
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\bin\Debug\net5.0\uprajnenie.runtimeconfig.dev.json
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\bin\Debug\net5.0\uprajnenie.dll
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\bin\Debug\net5.0\ref\uprajnenie.dll
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\bin\Debug\net5.0\uprajnenie.pdb
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\obj\Debug\net5.0\uprajnenie.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\obj\Debug\net5.0\uprajnenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\obj\Debug\net5.0\uprajnenie.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\obj\Debug\net5.0\uprajnenie.AssemblyInfo.cs
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\obj\Debug\net5.0\uprajnenie.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\obj\Debug\net5.0\uprajnenie.dll
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\obj\Debug\net5.0\ref\uprajnenie.dll
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\obj\Debug\net5.0\uprajnenie.pdb
+C:\Users\user1\source\repos\uprajnenie\uprajnenie\obj\Debug\net5.0\uprajnenie.genruntimeconfig.cache

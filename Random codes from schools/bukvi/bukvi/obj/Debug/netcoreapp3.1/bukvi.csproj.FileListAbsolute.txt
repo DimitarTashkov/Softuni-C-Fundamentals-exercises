@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\bukvi\bukvi\bin\Debug\netcoreapp3.1\bukvi.exe
+C:\Users\user1\source\repos\bukvi\bukvi\bin\Debug\netcoreapp3.1\bukvi.deps.json
+C:\Users\user1\source\repos\bukvi\bukvi\bin\Debug\netcoreapp3.1\bukvi.runtimeconfig.json
+C:\Users\user1\source\repos\bukvi\bukvi\bin\Debug\netcoreapp3.1\bukvi.runtimeconfig.dev.json
+C:\Users\user1\source\repos\bukvi\bukvi\bin\Debug\netcoreapp3.1\bukvi.dll
+C:\Users\user1\source\repos\bukvi\bukvi\bin\Debug\netcoreapp3.1\bukvi.pdb
+C:\Users\user1\source\repos\bukvi\bukvi\obj\Debug\netcoreapp3.1\bukvi.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\bukvi\bukvi\obj\Debug\netcoreapp3.1\bukvi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\bukvi\bukvi\obj\Debug\netcoreapp3.1\bukvi.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\bukvi\bukvi\obj\Debug\netcoreapp3.1\bukvi.AssemblyInfo.cs
+C:\Users\user1\source\repos\bukvi\bukvi\obj\Debug\netcoreapp3.1\bukvi.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\bukvi\bukvi\obj\Debug\netcoreapp3.1\bukvi.dll
+C:\Users\user1\source\repos\bukvi\bukvi\obj\Debug\netcoreapp3.1\bukvi.pdb
+C:\Users\user1\source\repos\bukvi\bukvi\obj\Debug\netcoreapp3.1\bukvi.genruntimeconfig.cache

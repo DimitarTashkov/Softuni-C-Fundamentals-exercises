@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\bin\Debug\net5.0\PB d8 ex3.exe
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\bin\Debug\net5.0\PB d8 ex3.deps.json
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\bin\Debug\net5.0\PB d8 ex3.runtimeconfig.json
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\bin\Debug\net5.0\PB d8 ex3.runtimeconfig.dev.json
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\bin\Debug\net5.0\PB d8 ex3.dll
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\bin\Debug\net5.0\ref\PB d8 ex3.dll
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\bin\Debug\net5.0\PB d8 ex3.pdb
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\obj\Debug\net5.0\PB d8 ex3.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\obj\Debug\net5.0\PB d8 ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\obj\Debug\net5.0\PB d8 ex3.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\obj\Debug\net5.0\PB d8 ex3.AssemblyInfo.cs
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\obj\Debug\net5.0\PB d8 ex3.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\obj\Debug\net5.0\PB d8 ex3.dll
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\obj\Debug\net5.0\ref\PB d8 ex3.dll
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\obj\Debug\net5.0\PB d8 ex3.pdb
+C:\Users\user1\source\repos\PB d8 ex3\PB d8 ex3\obj\Debug\net5.0\PB d8 ex3.genruntimeconfig.cache

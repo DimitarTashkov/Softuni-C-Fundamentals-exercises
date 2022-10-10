@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\testvane\testvane\bin\Debug\netcoreapp3.1\testvane.exe
+C:\Users\user1\source\repos\testvane\testvane\bin\Debug\netcoreapp3.1\testvane.deps.json
+C:\Users\user1\source\repos\testvane\testvane\bin\Debug\netcoreapp3.1\testvane.runtimeconfig.json
+C:\Users\user1\source\repos\testvane\testvane\bin\Debug\netcoreapp3.1\testvane.runtimeconfig.dev.json
+C:\Users\user1\source\repos\testvane\testvane\bin\Debug\netcoreapp3.1\testvane.dll
+C:\Users\user1\source\repos\testvane\testvane\bin\Debug\netcoreapp3.1\testvane.pdb
+C:\Users\user1\source\repos\testvane\testvane\obj\Debug\netcoreapp3.1\testvane.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\testvane\testvane\obj\Debug\netcoreapp3.1\testvane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\testvane\testvane\obj\Debug\netcoreapp3.1\testvane.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\testvane\testvane\obj\Debug\netcoreapp3.1\testvane.AssemblyInfo.cs
+C:\Users\user1\source\repos\testvane\testvane\obj\Debug\netcoreapp3.1\testvane.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\testvane\testvane\obj\Debug\netcoreapp3.1\testvane.dll
+C:\Users\user1\source\repos\testvane\testvane\obj\Debug\netcoreapp3.1\testvane.pdb
+C:\Users\user1\source\repos\testvane\testvane\obj\Debug\netcoreapp3.1\testvane.genruntimeconfig.cache

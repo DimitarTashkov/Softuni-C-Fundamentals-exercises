@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\acd\acd\bin\Debug\net5.0\acd.exe
+C:\Users\user1\source\repos\acd\acd\bin\Debug\net5.0\acd.deps.json
+C:\Users\user1\source\repos\acd\acd\bin\Debug\net5.0\acd.runtimeconfig.json
+C:\Users\user1\source\repos\acd\acd\bin\Debug\net5.0\acd.runtimeconfig.dev.json
+C:\Users\user1\source\repos\acd\acd\bin\Debug\net5.0\acd.dll
+C:\Users\user1\source\repos\acd\acd\bin\Debug\net5.0\ref\acd.dll
+C:\Users\user1\source\repos\acd\acd\bin\Debug\net5.0\acd.pdb
+C:\Users\user1\source\repos\acd\acd\obj\Debug\net5.0\acd.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\acd\acd\obj\Debug\net5.0\acd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\acd\acd\obj\Debug\net5.0\acd.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\acd\acd\obj\Debug\net5.0\acd.AssemblyInfo.cs
+C:\Users\user1\source\repos\acd\acd\obj\Debug\net5.0\acd.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\acd\acd\obj\Debug\net5.0\acd.dll
+C:\Users\user1\source\repos\acd\acd\obj\Debug\net5.0\ref\acd.dll
+C:\Users\user1\source\repos\acd\acd\obj\Debug\net5.0\acd.pdb
+C:\Users\user1\source\repos\acd\acd\obj\Debug\net5.0\acd.genruntimeconfig.cache

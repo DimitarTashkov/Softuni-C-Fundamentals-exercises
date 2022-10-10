@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\zad\zad\bin\Debug\zad.exe.config
+C:\Users\user1\source\repos\zad\zad\bin\Debug\zad.exe
+C:\Users\user1\source\repos\zad\zad\bin\Debug\zad.pdb
+C:\Users\user1\source\repos\zad\zad\obj\Debug\zad.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\zad\zad\obj\Debug\zad.Form1.resources
+C:\Users\user1\source\repos\zad\zad\obj\Debug\zad.Properties.Resources.resources
+C:\Users\user1\source\repos\zad\zad\obj\Debug\zad.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\zad\zad\obj\Debug\zad.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\zad\zad\obj\Debug\zad.exe
+C:\Users\user1\source\repos\zad\zad\obj\Debug\zad.pdb

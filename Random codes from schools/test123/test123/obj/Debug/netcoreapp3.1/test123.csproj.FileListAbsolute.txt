@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\test123\test123\bin\Debug\netcoreapp3.1\test123.exe
+C:\Users\user1\source\repos\test123\test123\bin\Debug\netcoreapp3.1\test123.deps.json
+C:\Users\user1\source\repos\test123\test123\bin\Debug\netcoreapp3.1\test123.runtimeconfig.json
+C:\Users\user1\source\repos\test123\test123\bin\Debug\netcoreapp3.1\test123.runtimeconfig.dev.json
+C:\Users\user1\source\repos\test123\test123\bin\Debug\netcoreapp3.1\test123.dll
+C:\Users\user1\source\repos\test123\test123\bin\Debug\netcoreapp3.1\test123.pdb
+C:\Users\user1\source\repos\test123\test123\obj\Debug\netcoreapp3.1\test123.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\test123\test123\obj\Debug\netcoreapp3.1\test123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\test123\test123\obj\Debug\netcoreapp3.1\test123.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\test123\test123\obj\Debug\netcoreapp3.1\test123.AssemblyInfo.cs
+C:\Users\user1\source\repos\test123\test123\obj\Debug\netcoreapp3.1\test123.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\test123\test123\obj\Debug\netcoreapp3.1\test123.dll
+C:\Users\user1\source\repos\test123\test123\obj\Debug\netcoreapp3.1\test123.pdb
+C:\Users\user1\source\repos\test123\test123\obj\Debug\netcoreapp3.1\test123.genruntimeconfig.cache

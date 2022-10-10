@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\pokaji i skrii\pokaji i skrii\bin\Debug\pokaji i skrii.exe.config
+C:\Users\user1\source\repos\pokaji i skrii\pokaji i skrii\bin\Debug\pokaji i skrii.exe
+C:\Users\user1\source\repos\pokaji i skrii\pokaji i skrii\bin\Debug\pokaji i skrii.pdb
+C:\Users\user1\source\repos\pokaji i skrii\pokaji i skrii\obj\Debug\pokaji i skrii.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\pokaji i skrii\pokaji i skrii\obj\Debug\pokaji_i_skrii.Form1.resources
+C:\Users\user1\source\repos\pokaji i skrii\pokaji i skrii\obj\Debug\pokaji_i_skrii.Properties.Resources.resources
+C:\Users\user1\source\repos\pokaji i skrii\pokaji i skrii\obj\Debug\pokaji i skrii.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\pokaji i skrii\pokaji i skrii\obj\Debug\pokaji i skrii.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\pokaji i skrii\pokaji i skrii\obj\Debug\pokaji i skrii.exe
+C:\Users\user1\source\repos\pokaji i skrii\pokaji i skrii\obj\Debug\pokaji i skrii.pdb

@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\zadacha5\zadacha5\bin\Debug\netcoreapp3.1\zadacha5.exe
+C:\Users\user1\source\repos\zadacha5\zadacha5\bin\Debug\netcoreapp3.1\zadacha5.deps.json
+C:\Users\user1\source\repos\zadacha5\zadacha5\bin\Debug\netcoreapp3.1\zadacha5.runtimeconfig.json
+C:\Users\user1\source\repos\zadacha5\zadacha5\bin\Debug\netcoreapp3.1\zadacha5.runtimeconfig.dev.json
+C:\Users\user1\source\repos\zadacha5\zadacha5\bin\Debug\netcoreapp3.1\zadacha5.dll
+C:\Users\user1\source\repos\zadacha5\zadacha5\bin\Debug\netcoreapp3.1\zadacha5.pdb
+C:\Users\user1\source\repos\zadacha5\zadacha5\obj\Debug\netcoreapp3.1\zadacha5.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\zadacha5\zadacha5\obj\Debug\netcoreapp3.1\zadacha5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\zadacha5\zadacha5\obj\Debug\netcoreapp3.1\zadacha5.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\zadacha5\zadacha5\obj\Debug\netcoreapp3.1\zadacha5.AssemblyInfo.cs
+C:\Users\user1\source\repos\zadacha5\zadacha5\obj\Debug\netcoreapp3.1\zadacha5.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\zadacha5\zadacha5\obj\Debug\netcoreapp3.1\zadacha5.dll
+C:\Users\user1\source\repos\zadacha5\zadacha5\obj\Debug\netcoreapp3.1\zadacha5.pdb
+C:\Users\user1\source\repos\zadacha5\zadacha5\obj\Debug\netcoreapp3.1\zadacha5.genruntimeconfig.cache

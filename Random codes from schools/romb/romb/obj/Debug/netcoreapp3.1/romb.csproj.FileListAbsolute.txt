@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\romb\romb\obj\Debug\netcoreapp3.1\romb.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\romb\romb\obj\Debug\netcoreapp3.1\romb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\romb\romb\obj\Debug\netcoreapp3.1\romb.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\romb\romb\obj\Debug\netcoreapp3.1\romb.AssemblyInfo.cs
+C:\Users\user1\source\repos\romb\romb\obj\Debug\netcoreapp3.1\romb.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\romb\romb\bin\Debug\netcoreapp3.1\romb.exe
+C:\Users\user1\source\repos\romb\romb\bin\Debug\netcoreapp3.1\romb.deps.json
+C:\Users\user1\source\repos\romb\romb\bin\Debug\netcoreapp3.1\romb.runtimeconfig.json
+C:\Users\user1\source\repos\romb\romb\bin\Debug\netcoreapp3.1\romb.runtimeconfig.dev.json
+C:\Users\user1\source\repos\romb\romb\bin\Debug\netcoreapp3.1\romb.dll
+C:\Users\user1\source\repos\romb\romb\bin\Debug\netcoreapp3.1\romb.pdb
+C:\Users\user1\source\repos\romb\romb\obj\Debug\netcoreapp3.1\romb.dll
+C:\Users\user1\source\repos\romb\romb\obj\Debug\netcoreapp3.1\romb.pdb
+C:\Users\user1\source\repos\romb\romb\obj\Debug\netcoreapp3.1\romb.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\samolet\samolet\bin\Debug\samolet.exe.config
+C:\Users\user1\source\repos\samolet\samolet\bin\Debug\samolet.exe
+C:\Users\user1\source\repos\samolet\samolet\bin\Debug\samolet.pdb
+C:\Users\user1\source\repos\samolet\samolet\obj\Debug\samolet.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\samolet\samolet\obj\Debug\samolet.Form1.resources
+C:\Users\user1\source\repos\samolet\samolet\obj\Debug\samolet.Properties.Resources.resources
+C:\Users\user1\source\repos\samolet\samolet\obj\Debug\samolet.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\samolet\samolet\obj\Debug\samolet.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\samolet\samolet\obj\Debug\samolet.exe
+C:\Users\user1\source\repos\samolet\samolet\obj\Debug\samolet.pdb

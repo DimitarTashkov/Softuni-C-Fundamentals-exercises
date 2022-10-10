@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\PB\PB\bin\Debug\net5.0\PB.exe
+C:\Users\user1\source\repos\PB\PB\bin\Debug\net5.0\PB.deps.json
+C:\Users\user1\source\repos\PB\PB\bin\Debug\net5.0\PB.runtimeconfig.json
+C:\Users\user1\source\repos\PB\PB\bin\Debug\net5.0\PB.runtimeconfig.dev.json
+C:\Users\user1\source\repos\PB\PB\bin\Debug\net5.0\PB.dll
+C:\Users\user1\source\repos\PB\PB\bin\Debug\net5.0\ref\PB.dll
+C:\Users\user1\source\repos\PB\PB\bin\Debug\net5.0\PB.pdb
+C:\Users\user1\source\repos\PB\PB\obj\Debug\net5.0\PB.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\PB\PB\obj\Debug\net5.0\PB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\PB\PB\obj\Debug\net5.0\PB.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\PB\PB\obj\Debug\net5.0\PB.AssemblyInfo.cs
+C:\Users\user1\source\repos\PB\PB\obj\Debug\net5.0\PB.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\PB\PB\obj\Debug\net5.0\PB.dll
+C:\Users\user1\source\repos\PB\PB\obj\Debug\net5.0\ref\PB.dll
+C:\Users\user1\source\repos\PB\PB\obj\Debug\net5.0\PB.pdb
+C:\Users\user1\source\repos\PB\PB\obj\Debug\net5.0\PB.genruntimeconfig.cache

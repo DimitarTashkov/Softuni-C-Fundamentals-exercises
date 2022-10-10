@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\idk\idk\bin\Debug\netcoreapp3.1\idk.exe
+C:\Users\user1\source\repos\idk\idk\bin\Debug\netcoreapp3.1\idk.deps.json
+C:\Users\user1\source\repos\idk\idk\bin\Debug\netcoreapp3.1\idk.runtimeconfig.json
+C:\Users\user1\source\repos\idk\idk\bin\Debug\netcoreapp3.1\idk.runtimeconfig.dev.json
+C:\Users\user1\source\repos\idk\idk\bin\Debug\netcoreapp3.1\idk.dll
+C:\Users\user1\source\repos\idk\idk\bin\Debug\netcoreapp3.1\idk.pdb
+C:\Users\user1\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.AssemblyInfo.cs
+C:\Users\user1\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.dll
+C:\Users\user1\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.pdb
+C:\Users\user1\source\repos\idk\idk\obj\Debug\netcoreapp3.1\idk.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\Square\Square\bin\Debug\Square.exe.config
+C:\Users\user1\source\repos\Square\Square\bin\Debug\Square.exe
+C:\Users\user1\source\repos\Square\Square\bin\Debug\Square.pdb
+C:\Users\user1\source\repos\Square\Square\obj\Debug\Square.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Square\Square\obj\Debug\Square.Form1.resources
+C:\Users\user1\source\repos\Square\Square\obj\Debug\Square.Properties.Resources.resources
+C:\Users\user1\source\repos\Square\Square\obj\Debug\Square.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\Square\Square\obj\Debug\Square.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Square\Square\obj\Debug\Square.exe
+C:\Users\user1\source\repos\Square\Square\obj\Debug\Square.pdb

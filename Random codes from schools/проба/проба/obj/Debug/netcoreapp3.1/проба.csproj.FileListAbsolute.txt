@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\проба\проба\bin\Debug\netcoreapp3.1\проба.exe
+C:\Users\user1\source\repos\проба\проба\bin\Debug\netcoreapp3.1\проба.deps.json
+C:\Users\user1\source\repos\проба\проба\bin\Debug\netcoreapp3.1\проба.runtimeconfig.json
+C:\Users\user1\source\repos\проба\проба\bin\Debug\netcoreapp3.1\проба.runtimeconfig.dev.json
+C:\Users\user1\source\repos\проба\проба\bin\Debug\netcoreapp3.1\проба.dll
+C:\Users\user1\source\repos\проба\проба\bin\Debug\netcoreapp3.1\проба.pdb
+C:\Users\user1\source\repos\проба\проба\obj\Debug\netcoreapp3.1\проба.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\проба\проба\obj\Debug\netcoreapp3.1\проба.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\проба\проба\obj\Debug\netcoreapp3.1\проба.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\проба\проба\obj\Debug\netcoreapp3.1\проба.AssemblyInfo.cs
+C:\Users\user1\source\repos\проба\проба\obj\Debug\netcoreapp3.1\проба.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\проба\проба\obj\Debug\netcoreapp3.1\проба.dll
+C:\Users\user1\source\repos\проба\проба\obj\Debug\netcoreapp3.1\проба.pdb
+C:\Users\user1\source\repos\проба\проба\obj\Debug\netcoreapp3.1\проба.genruntimeconfig.cache

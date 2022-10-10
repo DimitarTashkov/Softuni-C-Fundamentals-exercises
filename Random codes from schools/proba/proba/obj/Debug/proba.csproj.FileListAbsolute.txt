@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\proba\proba\bin\Debug\proba.exe.config
+C:\Users\user1\source\repos\proba\proba\bin\Debug\proba.exe
+C:\Users\user1\source\repos\proba\proba\bin\Debug\proba.pdb
+C:\Users\user1\source\repos\proba\proba\obj\Debug\proba.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\proba\proba\obj\Debug\proba.Form1.resources
+C:\Users\user1\source\repos\proba\proba\obj\Debug\proba.Properties.Resources.resources
+C:\Users\user1\source\repos\proba\proba\obj\Debug\proba.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\proba\proba\obj\Debug\proba.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\proba\proba\obj\Debug\proba.exe
+C:\Users\user1\source\repos\proba\proba\obj\Debug\proba.pdb

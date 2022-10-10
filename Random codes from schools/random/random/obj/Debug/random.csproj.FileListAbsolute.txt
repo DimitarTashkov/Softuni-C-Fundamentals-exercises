@@ -1,0 +1,10 @@
+C:\Users\user1\source\repos\random\random\obj\Debug\random.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\random\random\obj\Debug\random.Form1.resources
+C:\Users\user1\source\repos\random\random\obj\Debug\random.Properties.Resources.resources
+C:\Users\user1\source\repos\random\random\obj\Debug\random.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\random\random\obj\Debug\random.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\random\random\bin\Debug\random1.exe.config
+C:\Users\user1\source\repos\random\random\bin\Debug\random1.exe
+C:\Users\user1\source\repos\random\random\bin\Debug\random1.pdb
+C:\Users\user1\source\repos\random\random\obj\Debug\random1.exe
+C:\Users\user1\source\repos\random\random\obj\Debug\random1.pdb

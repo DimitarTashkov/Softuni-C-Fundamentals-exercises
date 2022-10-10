@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\test12142\test12142\bin\Debug\net5.0\test12142.exe
+C:\Users\user1\source\repos\test12142\test12142\bin\Debug\net5.0\test12142.deps.json
+C:\Users\user1\source\repos\test12142\test12142\bin\Debug\net5.0\test12142.runtimeconfig.json
+C:\Users\user1\source\repos\test12142\test12142\bin\Debug\net5.0\test12142.runtimeconfig.dev.json
+C:\Users\user1\source\repos\test12142\test12142\bin\Debug\net5.0\test12142.dll
+C:\Users\user1\source\repos\test12142\test12142\bin\Debug\net5.0\ref\test12142.dll
+C:\Users\user1\source\repos\test12142\test12142\bin\Debug\net5.0\test12142.pdb
+C:\Users\user1\source\repos\test12142\test12142\obj\Debug\net5.0\test12142.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\test12142\test12142\obj\Debug\net5.0\test12142.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\test12142\test12142\obj\Debug\net5.0\test12142.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\test12142\test12142\obj\Debug\net5.0\test12142.AssemblyInfo.cs
+C:\Users\user1\source\repos\test12142\test12142\obj\Debug\net5.0\test12142.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\test12142\test12142\obj\Debug\net5.0\test12142.dll
+C:\Users\user1\source\repos\test12142\test12142\obj\Debug\net5.0\ref\test12142.dll
+C:\Users\user1\source\repos\test12142\test12142\obj\Debug\net5.0\test12142.pdb
+C:\Users\user1\source\repos\test12142\test12142\obj\Debug\net5.0\test12142.genruntimeconfig.cache

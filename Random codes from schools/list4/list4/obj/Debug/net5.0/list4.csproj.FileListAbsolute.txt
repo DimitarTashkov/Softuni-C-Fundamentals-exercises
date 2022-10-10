@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\list4\list4\bin\Debug\net5.0\list4.exe
+C:\Users\user1\source\repos\list4\list4\bin\Debug\net5.0\list4.deps.json
+C:\Users\user1\source\repos\list4\list4\bin\Debug\net5.0\list4.runtimeconfig.json
+C:\Users\user1\source\repos\list4\list4\bin\Debug\net5.0\list4.runtimeconfig.dev.json
+C:\Users\user1\source\repos\list4\list4\bin\Debug\net5.0\list4.dll
+C:\Users\user1\source\repos\list4\list4\bin\Debug\net5.0\ref\list4.dll
+C:\Users\user1\source\repos\list4\list4\bin\Debug\net5.0\list4.pdb
+C:\Users\user1\source\repos\list4\list4\obj\Debug\net5.0\list4.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\list4\list4\obj\Debug\net5.0\list4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\list4\list4\obj\Debug\net5.0\list4.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\list4\list4\obj\Debug\net5.0\list4.AssemblyInfo.cs
+C:\Users\user1\source\repos\list4\list4\obj\Debug\net5.0\list4.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\list4\list4\obj\Debug\net5.0\list4.dll
+C:\Users\user1\source\repos\list4\list4\obj\Debug\net5.0\ref\list4.dll
+C:\Users\user1\source\repos\list4\list4\obj\Debug\net5.0\list4.pdb
+C:\Users\user1\source\repos\list4\list4\obj\Debug\net5.0\list4.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.exe
+C:\Users\user1\source\repos\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.deps.json
+C:\Users\user1\source\repos\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.json
+C:\Users\user1\source\repos\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\user1\source\repos\Methods\Calculations\bin\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\user1\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfo.cs
+C:\Users\user1\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\user1\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\user1\source\repos\Methods\Calculations\obj\Debug\netcoreapp3.1\Calculations.genruntimeconfig.cache

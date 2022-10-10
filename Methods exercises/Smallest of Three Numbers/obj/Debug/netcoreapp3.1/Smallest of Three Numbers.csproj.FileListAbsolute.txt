@@ -1,0 +1,13 @@
+C:\Users\user1\source\repos\Methods exercises\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.exe
+C:\Users\user1\source\repos\Methods exercises\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.deps.json
+C:\Users\user1\source\repos\Methods exercises\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.runtimeconfig.json
+C:\Users\user1\source\repos\Methods exercises\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Methods exercises\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.dll
+C:\Users\user1\source\repos\Methods exercises\Smallest of Three Numbers\bin\Debug\netcoreapp3.1\Smallest of Three Numbers.pdb
+C:\Users\user1\source\repos\Methods exercises\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Methods exercises\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Methods exercises\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.AssemblyInfo.cs
+C:\Users\user1\source\repos\Methods exercises\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Methods exercises\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.dll
+C:\Users\user1\source\repos\Methods exercises\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.pdb
+C:\Users\user1\source\repos\Methods exercises\Smallest of Three Numbers\obj\Debug\netcoreapp3.1\Smallest of Three Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\user1\source\repos\Methods\Multiply even by odds\bin\Debug\netcoreapp3.1\Multiply even by odds.exe
+C:\Users\user1\source\repos\Methods\Multiply even by odds\bin\Debug\netcoreapp3.1\Multiply even by odds.deps.json
+C:\Users\user1\source\repos\Methods\Multiply even by odds\bin\Debug\netcoreapp3.1\Multiply even by odds.runtimeconfig.json
+C:\Users\user1\source\repos\Methods\Multiply even by odds\bin\Debug\netcoreapp3.1\Multiply even by odds.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Methods\Multiply even by odds\bin\Debug\netcoreapp3.1\Multiply even by odds.dll
+C:\Users\user1\source\repos\Methods\Multiply even by odds\bin\Debug\netcoreapp3.1\Multiply even by odds.pdb
+C:\Users\user1\source\repos\Methods\Multiply even by odds\obj\Debug\netcoreapp3.1\Multiply even by odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Methods\Multiply even by odds\obj\Debug\netcoreapp3.1\Multiply even by odds.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Methods\Multiply even by odds\obj\Debug\netcoreapp3.1\Multiply even by odds.AssemblyInfo.cs
+C:\Users\user1\source\repos\Methods\Multiply even by odds\obj\Debug\netcoreapp3.1\Multiply even by odds.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Methods\Multiply even by odds\obj\Debug\netcoreapp3.1\Multiply even by odds.dll
+C:\Users\user1\source\repos\Methods\Multiply even by odds\obj\Debug\netcoreapp3.1\Multiply even by odds.pdb
+C:\Users\user1\source\repos\Methods\Multiply even by odds\obj\Debug\netcoreapp3.1\Multiply even by odds.genruntimeconfig.cache

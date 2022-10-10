@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.exe
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.deps.json
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.runtimeconfig.json
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.dll
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\bin\Debug\netcoreapp3.1\Add and Subtract.pdb
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.AssemblyInfo.cs
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.dll
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.pdb
+C:\Users\user1\source\repos\Methods exercises\Add and Subtract\obj\Debug\netcoreapp3.1\Add and Subtract.genruntimeconfig.cache

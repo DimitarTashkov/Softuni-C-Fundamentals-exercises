@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Methods\For cycles with methods\bin\Debug\netcoreapp3.1\For cycles with methods.exe
+C:\Users\user1\source\repos\Methods\For cycles with methods\bin\Debug\netcoreapp3.1\For cycles with methods.deps.json
+C:\Users\user1\source\repos\Methods\For cycles with methods\bin\Debug\netcoreapp3.1\For cycles with methods.runtimeconfig.json
+C:\Users\user1\source\repos\Methods\For cycles with methods\bin\Debug\netcoreapp3.1\For cycles with methods.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Methods\For cycles with methods\bin\Debug\netcoreapp3.1\For cycles with methods.dll
+C:\Users\user1\source\repos\Methods\For cycles with methods\bin\Debug\netcoreapp3.1\For cycles with methods.pdb
+C:\Users\user1\source\repos\Methods\For cycles with methods\obj\Debug\netcoreapp3.1\For cycles with methods.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Methods\For cycles with methods\obj\Debug\netcoreapp3.1\For cycles with methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Methods\For cycles with methods\obj\Debug\netcoreapp3.1\For cycles with methods.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Methods\For cycles with methods\obj\Debug\netcoreapp3.1\For cycles with methods.AssemblyInfo.cs
+C:\Users\user1\source\repos\Methods\For cycles with methods\obj\Debug\netcoreapp3.1\For cycles with methods.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Methods\For cycles with methods\obj\Debug\netcoreapp3.1\For cycles with methods.dll
+C:\Users\user1\source\repos\Methods\For cycles with methods\obj\Debug\netcoreapp3.1\For cycles with methods.pdb
+C:\Users\user1\source\repos\Methods\For cycles with methods\obj\Debug\netcoreapp3.1\For cycles with methods.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\Max Sequence of Equal Elements.exe
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\Max Sequence of Equal Elements.deps.json
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\Max Sequence of Equal Elements.runtimeconfig.json
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\Max Sequence of Equal Elements.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\Max Sequence of Equal Elements.dll
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\bin\Debug\netcoreapp3.1\Max Sequence of Equal Elements.pdb
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\Max Sequence of Equal Elements.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\Max Sequence of Equal Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\Max Sequence of Equal Elements.dll
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\Max Sequence of Equal Elements.pdb
+C:\Users\user1\source\repos\Max Sequence of Equal Elements\Max Sequence of Equal Elements\obj\Debug\netcoreapp3.1\Max Sequence of Equal Elements.genruntimeconfig.cache

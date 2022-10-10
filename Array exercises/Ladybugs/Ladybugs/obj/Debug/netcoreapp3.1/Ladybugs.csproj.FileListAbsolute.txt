@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\bin\Debug\netcoreapp3.1\Ladybugs.exe
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\bin\Debug\netcoreapp3.1\Ladybugs.deps.json
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\bin\Debug\netcoreapp3.1\Ladybugs.runtimeconfig.json
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\bin\Debug\netcoreapp3.1\Ladybugs.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\bin\Debug\netcoreapp3.1\Ladybugs.dll
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\bin\Debug\netcoreapp3.1\Ladybugs.pdb
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\obj\Debug\netcoreapp3.1\Ladybugs.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\obj\Debug\netcoreapp3.1\Ladybugs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\obj\Debug\netcoreapp3.1\Ladybugs.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\obj\Debug\netcoreapp3.1\Ladybugs.AssemblyInfo.cs
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\obj\Debug\netcoreapp3.1\Ladybugs.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\obj\Debug\netcoreapp3.1\Ladybugs.dll
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\obj\Debug\netcoreapp3.1\Ladybugs.pdb
+C:\Users\user1\source\repos\Ladybugs\Ladybugs\obj\Debug\netcoreapp3.1\Ladybugs.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.exe
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.deps.json
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.runtimeconfig.json
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.dll
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\bin\Debug\netcoreapp3.1\Condense Array to Number.pdb
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.AssemblyInfo.cs
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.dll
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.pdb
+C:\Users\user1\source\repos\Condense Array to Number\Condense Array to Number\obj\Debug\netcoreapp3.1\Condense Array to Number.genruntimeconfig.cache

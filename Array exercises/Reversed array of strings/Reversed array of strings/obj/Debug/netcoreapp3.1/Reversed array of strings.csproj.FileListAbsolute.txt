@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\bin\Debug\netcoreapp3.1\Reversed array of strings.exe
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\bin\Debug\netcoreapp3.1\Reversed array of strings.deps.json
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\bin\Debug\netcoreapp3.1\Reversed array of strings.runtimeconfig.json
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\bin\Debug\netcoreapp3.1\Reversed array of strings.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\bin\Debug\netcoreapp3.1\Reversed array of strings.dll
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\bin\Debug\netcoreapp3.1\Reversed array of strings.pdb
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\obj\Debug\netcoreapp3.1\Reversed array of strings.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\obj\Debug\netcoreapp3.1\Reversed array of strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\obj\Debug\netcoreapp3.1\Reversed array of strings.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\obj\Debug\netcoreapp3.1\Reversed array of strings.AssemblyInfo.cs
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\obj\Debug\netcoreapp3.1\Reversed array of strings.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\obj\Debug\netcoreapp3.1\Reversed array of strings.dll
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\obj\Debug\netcoreapp3.1\Reversed array of strings.pdb
+C:\Users\user1\source\repos\Reversed array of strings\Reversed array of strings\obj\Debug\netcoreapp3.1\Reversed array of strings.genruntimeconfig.cache

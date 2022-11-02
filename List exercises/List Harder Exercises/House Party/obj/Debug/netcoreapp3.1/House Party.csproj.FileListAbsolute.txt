@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\List Harder Exercises\House Party\bin\Debug\netcoreapp3.1\House Party.exe
+C:\Users\user1\source\repos\List Harder Exercises\House Party\bin\Debug\netcoreapp3.1\House Party.deps.json
+C:\Users\user1\source\repos\List Harder Exercises\House Party\bin\Debug\netcoreapp3.1\House Party.runtimeconfig.json
+C:\Users\user1\source\repos\List Harder Exercises\House Party\bin\Debug\netcoreapp3.1\House Party.runtimeconfig.dev.json
+C:\Users\user1\source\repos\List Harder Exercises\House Party\bin\Debug\netcoreapp3.1\House Party.dll
+C:\Users\user1\source\repos\List Harder Exercises\House Party\bin\Debug\netcoreapp3.1\House Party.pdb
+C:\Users\user1\source\repos\List Harder Exercises\House Party\obj\Debug\netcoreapp3.1\House Party.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\List Harder Exercises\House Party\obj\Debug\netcoreapp3.1\House Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\List Harder Exercises\House Party\obj\Debug\netcoreapp3.1\House Party.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\List Harder Exercises\House Party\obj\Debug\netcoreapp3.1\House Party.AssemblyInfo.cs
+C:\Users\user1\source\repos\List Harder Exercises\House Party\obj\Debug\netcoreapp3.1\House Party.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\List Harder Exercises\House Party\obj\Debug\netcoreapp3.1\House Party.dll
+C:\Users\user1\source\repos\List Harder Exercises\House Party\obj\Debug\netcoreapp3.1\House Party.pdb
+C:\Users\user1\source\repos\List Harder Exercises\House Party\obj\Debug\netcoreapp3.1\House Party.genruntimeconfig.cache

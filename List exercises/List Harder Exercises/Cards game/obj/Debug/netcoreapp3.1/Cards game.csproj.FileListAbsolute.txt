@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\bin\Debug\netcoreapp3.1\Cards game.exe
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\bin\Debug\netcoreapp3.1\Cards game.deps.json
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\bin\Debug\netcoreapp3.1\Cards game.runtimeconfig.json
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\bin\Debug\netcoreapp3.1\Cards game.runtimeconfig.dev.json
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\bin\Debug\netcoreapp3.1\Cards game.dll
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\bin\Debug\netcoreapp3.1\Cards game.pdb
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\obj\Debug\netcoreapp3.1\Cards game.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\obj\Debug\netcoreapp3.1\Cards game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\obj\Debug\netcoreapp3.1\Cards game.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\obj\Debug\netcoreapp3.1\Cards game.AssemblyInfo.cs
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\obj\Debug\netcoreapp3.1\Cards game.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\obj\Debug\netcoreapp3.1\Cards game.dll
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\obj\Debug\netcoreapp3.1\Cards game.pdb
+C:\Users\user1\source\repos\List Harder Exercises\Cards game\obj\Debug\netcoreapp3.1\Cards game.genruntimeconfig.cache

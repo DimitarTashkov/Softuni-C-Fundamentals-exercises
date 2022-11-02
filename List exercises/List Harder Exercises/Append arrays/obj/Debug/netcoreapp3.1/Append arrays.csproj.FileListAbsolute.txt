@@ -1,0 +1,13 @@
+C:\Users\user1\source\repos\List Harder Exercises\Append arrays\bin\Debug\netcoreapp3.1\Append arrays.exe
+C:\Users\user1\source\repos\List Harder Exercises\Append arrays\bin\Debug\netcoreapp3.1\Append arrays.deps.json
+C:\Users\user1\source\repos\List Harder Exercises\Append arrays\bin\Debug\netcoreapp3.1\Append arrays.runtimeconfig.json
+C:\Users\user1\source\repos\List Harder Exercises\Append arrays\bin\Debug\netcoreapp3.1\Append arrays.runtimeconfig.dev.json
+C:\Users\user1\source\repos\List Harder Exercises\Append arrays\bin\Debug\netcoreapp3.1\Append arrays.dll
+C:\Users\user1\source\repos\List Harder Exercises\Append arrays\bin\Debug\netcoreapp3.1\Append arrays.pdb
+C:\Users\user1\source\repos\List Harder Exercises\Append arrays\obj\Debug\netcoreapp3.1\Append arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\List Harder Exercises\Append arrays\obj\Debug\netcoreapp3.1\Append arrays.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\List Harder Exercises\Append arrays\obj\Debug\netcoreapp3.1\Append arrays.AssemblyInfo.cs
+C:\Users\user1\source\repos\List Harder Exercises\Append arrays\obj\Debug\netcoreapp3.1\Append arrays.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\List Harder Exercises\Append arrays\obj\Debug\netcoreapp3.1\Append arrays.dll
+C:\Users\user1\source\repos\List Harder Exercises\Append arrays\obj\Debug\netcoreapp3.1\Append arrays.pdb
+C:\Users\user1\source\repos\List Harder Exercises\Append arrays\obj\Debug\netcoreapp3.1\Append arrays.genruntimeconfig.cache

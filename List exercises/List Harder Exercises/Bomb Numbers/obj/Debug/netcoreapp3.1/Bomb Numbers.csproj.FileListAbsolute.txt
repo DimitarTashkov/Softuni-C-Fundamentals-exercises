@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.exe
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.deps.json
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.runtimeconfig.json
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.runtimeconfig.dev.json
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.dll
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\bin\Debug\netcoreapp3.1\Bomb Numbers.pdb
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.AssemblyInfo.cs
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.dll
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.pdb
+C:\Users\user1\source\repos\List Harder Exercises\Bomb Numbers\obj\Debug\netcoreapp3.1\Bomb Numbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\bin\Debug\netcoreapp3.1\Anonymous Threat.exe
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\bin\Debug\netcoreapp3.1\Anonymous Threat.deps.json
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\bin\Debug\netcoreapp3.1\Anonymous Threat.runtimeconfig.json
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\bin\Debug\netcoreapp3.1\Anonymous Threat.runtimeconfig.dev.json
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\bin\Debug\netcoreapp3.1\Anonymous Threat.dll
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\bin\Debug\netcoreapp3.1\Anonymous Threat.pdb
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.AssemblyInfo.cs
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.dll
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.pdb
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.genruntimeconfig.cache
+C:\Users\user1\source\repos\List Harder Exercises\Anonymous Threat\obj\Debug\netcoreapp3.1\Anonymous Threat.csproj.AssemblyReference.cache

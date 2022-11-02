@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\MidExam\Chat Logger\bin\Debug\netcoreapp3.1\Chat Logger.exe
+C:\Users\user1\source\repos\MidExam\Chat Logger\bin\Debug\netcoreapp3.1\Chat Logger.deps.json
+C:\Users\user1\source\repos\MidExam\Chat Logger\bin\Debug\netcoreapp3.1\Chat Logger.runtimeconfig.json
+C:\Users\user1\source\repos\MidExam\Chat Logger\bin\Debug\netcoreapp3.1\Chat Logger.runtimeconfig.dev.json
+C:\Users\user1\source\repos\MidExam\Chat Logger\bin\Debug\netcoreapp3.1\Chat Logger.dll
+C:\Users\user1\source\repos\MidExam\Chat Logger\bin\Debug\netcoreapp3.1\Chat Logger.pdb
+C:\Users\user1\source\repos\MidExam\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\MidExam\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\MidExam\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\MidExam\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.AssemblyInfo.cs
+C:\Users\user1\source\repos\MidExam\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\MidExam\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.dll
+C:\Users\user1\source\repos\MidExam\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.pdb
+C:\Users\user1\source\repos\MidExam\Chat Logger\obj\Debug\netcoreapp3.1\Chat Logger.genruntimeconfig.cache

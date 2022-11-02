@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\midexam preparation\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\user1\source\repos\midexam preparation\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\user1\source\repos\midexam preparation\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\user1\source\repos\midexam preparation\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\user1\source\repos\midexam preparation\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\user1\source\repos\midexam preparation\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\user1\source\repos\midexam preparation\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\midexam preparation\Inventory\obj\Debug\netcoreapp3.1\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\midexam preparation\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\midexam preparation\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\user1\source\repos\midexam preparation\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\midexam preparation\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\user1\source\repos\midexam preparation\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\user1\source\repos\midexam preparation\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache

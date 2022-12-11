@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password Validator", "Password Validator\Password Validator.csproj", "{5AB2B052-D98A-40A0-9121-75048496053E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Easter Eggs", "Easter Eggs\Easter Eggs.csproj", "{7BC78F27-C2AB-4BAD-8045-732E638E958F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{24326543-BA4A-4C99-BCA8-192F5D09708B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AB2B052-D98A-40A0-9121-75048496053E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB2B052-D98A-40A0-9121-75048496053E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB2B052-D98A-40A0-9121-75048496053E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB2B052-D98A-40A0-9121-75048496053E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC78F27-C2AB-4BAD-8045-732E638E958F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC78F27-C2AB-4BAD-8045-732E638E958F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC78F27-C2AB-4BAD-8045-732E638E958F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC78F27-C2AB-4BAD-8045-732E638E958F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24326543-BA4A-4C99-BCA8-192F5D09708B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24326543-BA4A-4C99-BCA8-192F5D09708B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24326543-BA4A-4C99-BCA8-192F5D09708B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24326543-BA4A-4C99-BCA8-192F5D09708B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16DBF562-226E-4D5C-A8EF-13B6714119DC}
+	EndGlobalSection
+EndGlobal

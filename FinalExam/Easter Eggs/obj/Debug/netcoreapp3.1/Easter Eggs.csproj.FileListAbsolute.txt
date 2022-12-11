@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\bin\Debug\netcoreapp3.1\Easter Eggs.exe
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\bin\Debug\netcoreapp3.1\Easter Eggs.deps.json
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\bin\Debug\netcoreapp3.1\Easter Eggs.runtimeconfig.json
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\bin\Debug\netcoreapp3.1\Easter Eggs.runtimeconfig.dev.json
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\bin\Debug\netcoreapp3.1\Easter Eggs.dll
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\bin\Debug\netcoreapp3.1\Easter Eggs.pdb
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.AssemblyInfo.cs
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.dll
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.pdb
+C:\Users\user1\source\repos\FinalExam\Easter Eggs\obj\Debug\netcoreapp3.1\Easter Eggs.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Big Factoriel/1.0.0": {
+        "runtime": {
+          "Big Factoriel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Big Factoriel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

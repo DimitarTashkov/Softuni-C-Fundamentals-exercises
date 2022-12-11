@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\bin\Debug\netcoreapp3.1\Big Factoriel.exe
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\bin\Debug\netcoreapp3.1\Big Factoriel.deps.json
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\bin\Debug\netcoreapp3.1\Big Factoriel.runtimeconfig.json
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\bin\Debug\netcoreapp3.1\Big Factoriel.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\bin\Debug\netcoreapp3.1\Big Factoriel.dll
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\bin\Debug\netcoreapp3.1\Big Factoriel.pdb
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\obj\Debug\netcoreapp3.1\Big Factoriel.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\obj\Debug\netcoreapp3.1\Big Factoriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\obj\Debug\netcoreapp3.1\Big Factoriel.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\obj\Debug\netcoreapp3.1\Big Factoriel.AssemblyInfo.cs
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\obj\Debug\netcoreapp3.1\Big Factoriel.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\obj\Debug\netcoreapp3.1\Big Factoriel.dll
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\obj\Debug\netcoreapp3.1\Big Factoriel.pdb
+C:\Users\user1\source\repos\Object and Classes\Big Factoriel\obj\Debug\netcoreapp3.1\Big Factoriel.genruntimeconfig.cache

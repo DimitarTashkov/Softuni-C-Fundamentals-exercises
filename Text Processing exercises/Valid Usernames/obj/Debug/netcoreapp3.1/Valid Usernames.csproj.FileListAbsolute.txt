@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.exe
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.deps.json
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.runtimeconfig.json
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.dll
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\bin\Debug\netcoreapp3.1\Valid Usernames.pdb
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.AssemblyInfo.cs
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.dll
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.pdb
+C:\Users\user1\source\repos\Text Processing exercises\Valid Usernames\obj\Debug\netcoreapp3.1\Valid Usernames.genruntimeconfig.cache

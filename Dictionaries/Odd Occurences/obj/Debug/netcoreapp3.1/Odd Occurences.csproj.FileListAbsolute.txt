@@ -1,0 +1,14 @@
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\bin\Debug\netcoreapp3.1\Odd Occurences.exe
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\bin\Debug\netcoreapp3.1\Odd Occurences.deps.json
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\bin\Debug\netcoreapp3.1\Odd Occurences.runtimeconfig.json
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\bin\Debug\netcoreapp3.1\Odd Occurences.runtimeconfig.dev.json
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\bin\Debug\netcoreapp3.1\Odd Occurences.dll
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\bin\Debug\netcoreapp3.1\Odd Occurences.pdb
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\obj\Debug\netcoreapp3.1\Odd Occurences.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\obj\Debug\netcoreapp3.1\Odd Occurences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\obj\Debug\netcoreapp3.1\Odd Occurences.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\obj\Debug\netcoreapp3.1\Odd Occurences.AssemblyInfo.cs
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\obj\Debug\netcoreapp3.1\Odd Occurences.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\obj\Debug\netcoreapp3.1\Odd Occurences.dll
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\obj\Debug\netcoreapp3.1\Odd Occurences.pdb
+C:\Users\user1\source\repos\Dictionaries\Odd Occurences\obj\Debug\netcoreapp3.1\Odd Occurences.genruntimeconfig.cache

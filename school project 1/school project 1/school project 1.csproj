@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A7BF41E6-BBA0-4BAE-A09F-5979C5FD037B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>school_project_1</RootNamespace>
+    <AssemblyName>school project 1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Avatar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Avatar.Designer.cs">
+      <DependentUpon>Avatar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Avengers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Avengers.Designer.cs">
+      <DependentUpon>Avengers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BestSellerscs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BestSellerscs.Designer.cs">
+      <DependentUpon>BestSellerscs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fast and Furious.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fast and Furious.Designer.cs">
+      <DependentUpon>Fast and Furious.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Jurassic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Jurassic.Designer.cs">
+      <DependentUpon>Jurassic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Titanic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Titanic.Designer.cs">
+      <DependentUpon>Titanic.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Avatar.resx">
+      <DependentUpon>Avatar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Avengers.resx">
+      <DependentUpon>Avengers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BestSellerscs.resx">
+      <DependentUpon>BestSellerscs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fast and Furious.resx">
+      <DependentUpon>Fast and Furious.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Jurassic.resx">
+      <DependentUpon>Jurassic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Titanic.resx">
+      <DependentUpon>Titanic.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgorund.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Avengers.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fast and furious.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jurasic world.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\titanic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avatar-movie-1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b4d88fe896c834bc7f5ecee1cd16af38.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avengers-endgame-hubynr5uzeo5e89b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\872068-fast-and-furious-7-wallpapers-1920x1080-for-ipad-pro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13-133691_jurassic-world-wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\titanic-movie-wallpapers-images-picture-photo %2812%29.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

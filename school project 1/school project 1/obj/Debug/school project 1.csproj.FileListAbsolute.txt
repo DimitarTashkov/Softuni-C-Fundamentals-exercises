@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\school project 1\school project 1\bin\Debug\school project 1.exe.config
+C:\Users\user1\source\repos\school project 1\school project 1\bin\Debug\school project 1.exe
+C:\Users\user1\source\repos\school project 1\school project 1\bin\Debug\school project 1.pdb
+C:\Users\user1\source\repos\school project 1\school project 1\obj\Debug\school project 1.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\school project 1\school project 1\obj\Debug\school_project_1.Form1.resources
+C:\Users\user1\source\repos\school project 1\school project 1\obj\Debug\school_project_1.Properties.Resources.resources
+C:\Users\user1\source\repos\school project 1\school project 1\obj\Debug\school project 1.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\school project 1\school project 1\obj\Debug\school project 1.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\school project 1\school project 1\obj\Debug\school project 1.exe
+C:\Users\user1\source\repos\school project 1\school project 1\obj\Debug\school project 1.pdb
+C:\Users\user1\source\repos\school project 1\school project 1\obj\Debug\school_project_1.BestSellerscs.resources
+C:\Users\user1\source\repos\school project 1\school project 1\obj\Debug\school_project_1.Avatar.resources
+C:\Users\user1\source\repos\school project 1\school project 1\obj\Debug\school_project_1.Avengers.resources
+C:\Users\user1\source\repos\school project 1\school project 1\obj\Debug\school_project_1.Fast_and_Furious.resources
+C:\Users\user1\source\repos\school project 1\school project 1\obj\Debug\school_project_1.Jurassic.resources
+C:\Users\user1\source\repos\school project 1\school project 1\obj\Debug\school_project_1.Titanic.resources
